@@ -18,7 +18,7 @@ void loop()
   mq.readAirQuality(PERCENT_AIR); // Unit (%)
   Serial.print(F("Level Air Quality: ["));
   Serial.print(mq.air.min, 2);
-  Serial.print(F(" - ");
+  Serial.print(F(" - "));
   Serial.print(mq.air.max, 2);
   Serial.print(F("] %\n"));
   
