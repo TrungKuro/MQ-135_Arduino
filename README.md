@@ -25,6 +25,8 @@ void readAirQuality(uint8_t unit=PPM);
   - PERCENT_AIR (%)
   - PPM         (ppm)
 
+## Attributes
+
 ### Read value with range of Max/Min
 ```
 + air.max
