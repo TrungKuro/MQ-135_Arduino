@@ -1,5 +1,5 @@
 /*!
- *  @file MQ135.cpp
+ *  @file MQ135.h
  *
  *  Library Sensor MQ135 use with boards Arduino
  *  Air Quality check function
